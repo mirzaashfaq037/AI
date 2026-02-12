@@ -1,4 +1,5 @@
 **🚀 Key Features**
+
 •	🤖 AI-Powered Knowledge Assessment: Uses quiz scoring logic to identify weak topics in programming fundamentals.
 •	📊 Interactive Dashboard: Learners interact through a user-friendly Streamlit interface.
 •	📄 Automated Learning Path: Curates content based on detected knowledge gaps.
