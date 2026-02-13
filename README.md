@@ -45,7 +45,4 @@ Core Components:
 •	app.py: Main Streamlit application with quiz, scoring, and recommendations.
 •	resources.csv (optional): Expandable database for educational content.
 ________________________________________
-🤝 Contributing
-•	Feel free to fork this project and submit pull requests.
-•	Can extend with LLM-generated content recommendations, adaptive quizzes, or progress tracking.
 
