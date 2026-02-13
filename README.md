@@ -39,10 +39,14 @@ ________________________________________
 ai_learning_engine/
 │
 ├── app.py           # Streamlit dashboard for quiz and recommendations
+
 ├── resources.csv    # Optional: Database of educational content
+
 ├── requirements.txt # Python dependencies
 Core Components:
+
 •	app.py: Main Streamlit application with quiz, scoring, and recommendations.
+
 •	resources.csv (optional): Expandable database for educational content.
 ________________________________________
 
